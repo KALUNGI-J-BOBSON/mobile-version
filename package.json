@@ -8,15 +8,15 @@
     },
     "repository": {
       "type": "git",
-      "url": "git+https://github.com/kalungiI-j-bobson/portfolio-mobile-setup.git"
+      "url": "git+https://github.com/kalungi-j-bobson/portfolio-mobile-setup.git"
     },
     "keywords": [],
     "author": "",
     "license": "ISC",
     "bugs": {
-      "url": "https://github.com/kalungiI-j-bobson/portfolio-mobile-setup/issues"
+      "url": "https://github.com/kalungi-j-bobson/portfolio-mobile-setup/issues"
     },
-    "homepage": "https://github.com/kalungiI-j-bobson/portfolio-mobile-setup#readme",
+    "homepage": "https://github.com/kalungi-j-bobson/portfolio-mobile-setup#readme",
     "devDependencies": {
       "hint": "^7.1.2",
       "stylelint": "^13.13.1",
